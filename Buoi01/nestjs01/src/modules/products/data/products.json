@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro X",
+    "price": 1500,
+    "description": "A high-performance laptop for professionals."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Max",
+    "price": 999,
+    "description": "A flagship smartphone with an amazing camera."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "price": 199,
+    "description": "Noise-canceling headphones with long battery life."
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "price": 49,
+    "description": "A precision gaming mouse with customizable buttons."
+  },
+  {
+    "id": 5,
+    "name": "4K Smart TV",
+    "price": 1200,
+    "description": "A 65-inch 4K smart TV with HDR support."
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "price": 99,
+    "description": "Portable Bluetooth speaker with rich sound quality."
+  },
+  {
+    "id": 7,
+    "name": "Smartwatch Series 5",
+    "price": 399,
+    "description": "A stylish smartwatch with health tracking features."
+  },
+  {
+    "id": 8,
+    "name": "External Hard Drive",
+    "price": 89,
+    "description": "1TB external hard drive for secure backups."
+  },
+  {
+    "id": 9,
+    "name": "Air Purifier",
+    "price": 299,
+    "description": "Advanced air purifier with HEPA filter."
+  },
+  {
+    "id": 10,
+    "name": "Electric Scooter",
+    "price": 450,
+    "description": "Compact electric scooter for urban commutes."
+  }
+]
